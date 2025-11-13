@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Estou montando a carta com printf
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
